@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/manasvikaar/static/css/main.af6cfbce.css",
-    "main.js": "/manasvikaar/static/js/main.e91deac4.js",
+    "main.js": "/manasvikaar/static/js/main.f3cf5fa6.js",
     "static/media/main-hero-image1.png": "/manasvikaar/static/media/main-hero-image1.5e7501cb75e0c829b87d.png",
     "static/media/cta-one-shape-1.png": "/manasvikaar/static/media/cta-one-shape-1.e2b061b3ed204d917735.png",
     "static/media/main-slider-three-bg.jpg": "/manasvikaar/static/media/main-slider-three-bg.d4302ce5610100ffe11d.jpg",
@@ -19,10 +19,10 @@
     "static/media/services-3-4.jpg": "/manasvikaar/static/media/services-3-4.b9fde19605375ba449de.jpg",
     "index.html": "/manasvikaar/index.html",
     "main.af6cfbce.css.map": "/manasvikaar/static/css/main.af6cfbce.css.map",
-    "main.e91deac4.js.map": "/manasvikaar/static/js/main.e91deac4.js.map"
+    "main.f3cf5fa6.js.map": "/manasvikaar/static/js/main.f3cf5fa6.js.map"
   },
   "entrypoints": [
     "static/css/main.af6cfbce.css",
-    "static/js/main.e91deac4.js"
+    "static/js/main.f3cf5fa6.js"
   ]
 }
